@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4b3c62b.css",
+    "main.js": "/static/js/main.2af9113c.js",
+    "static/media/rangmanch.png": "/static/media/rangmanch.568884625100fd14cbe3.png",
+    "static/media/logo.png": "/static/media/logo.2c3fae7eb49d64e0d681.png",
+    "static/media/tbh.png": "/static/media/tbh.55fa985769f22b046c12.png",
+    "static/media/back.JPG": "/static/media/back.65cdcc6ca64dd27ae9f3.JPG",
+    "static/media/papertech.png": "/static/media/papertech.95fe9b6d065376f1e600.png",
+    "static/media/geu.png": "/static/media/geu.58da7d361ddcaf2152fc.png",
+    "static/media/IEEE.png": "/static/media/IEEE.4d791b3f60b9d32c74d5.png",
+    "index.html": "/index.html",
+    "main.b4b3c62b.css.map": "/static/css/main.b4b3c62b.css.map",
+    "main.2af9113c.js.map": "/static/js/main.2af9113c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4b3c62b.css",
+    "static/js/main.2af9113c.js"
+  ]
+}
